@@ -1,27 +1,10 @@
 # Multicultural Workforce DEIB Dashboard | Power BI
 
-**People Analytics · DEIB · Pay Equity · Inclusion & Belonging · Attrition Risk**
+**Power BI People Analytics and DEIB dashboard analyzing multicultural workforce inclusion, pay equity, and attrition.**
 
 A Power BI case study analyzing a multicultural workforce through the lenses of headcount, attrition, pay equity, inclusion, belonging, and representation.
 
 ---
-
-multicultural-workforce-deib-dashboard/
-│
-├── README.md
-├── screenshots/
-│   ├── page1.png
-│   ├── page2.png
-│   └── page3.png
-│
-├── data/
-│   └── P1.xlsx
-│
-├── assets/
-│   └── dashboard-cover.png
-│
-└── docs/
-    └── methodology-notes.md
 
 ## Project Overview
 
@@ -175,4 +158,3 @@ People Analytics & DEIB Specialist | Power BI | Intercultural Relations | FR/PT/
 - LinkedIn: [Ake Marc Albert Adje](https://www.linkedin.com/in/ake-marc-albert-adje-5b341a110/)
 - Portfolio: [datascienceportfol.io/akemarcpt](https://www.datascienceportfol.io/akemarcpt)
 - Email: akemarcpt@gmail.com
-
