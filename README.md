@@ -158,3 +158,20 @@ People Analytics & DEIB Specialist | Power BI | Intercultural Relations | FR/PT/
 - LinkedIn: [Ake Marc Albert Adje](https://www.linkedin.com/in/ake-marc-albert-adje-5b341a110/)
 - Portfolio: [datascienceportfol.io/akemarcpt](https://www.datascienceportfol.io/akemarcpt)
 - Email: akemarcpt@gmail.com
+
+multicultural-workforce-deib-dashboard/
+│
+├── README.md
+├── screenshots/
+│   ├── page1.png
+│   ├── page2.png
+│   └── page3.png
+│
+├── data/
+│   └── P1.xlsx
+│
+├── assets/
+│   └── dashboard-cover.png
+│
+└── docs/
+    └── methodology-notes.md
