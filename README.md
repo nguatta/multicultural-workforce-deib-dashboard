@@ -6,6 +6,23 @@ A Power BI case study analyzing a multicultural workforce through the lenses of 
 
 ---
 
+multicultural-workforce-deib-dashboard/
+│
+├── README.md
+├── screenshots/
+│   ├── page1.png
+│   ├── page2.png
+│   └── page3.png
+│
+├── data/
+│   └── P1.xlsx
+│
+├── assets/
+│   └── dashboard-cover.png
+│
+└── docs/
+    └── methodology-notes.md
+
 ## Project Overview
 
 This project explores how workforce diversity, compensation, and employee experience interact in a multicultural organization.  
@@ -159,19 +176,3 @@ People Analytics & DEIB Specialist | Power BI | Intercultural Relations | FR/PT/
 - Portfolio: [datascienceportfol.io/akemarcpt](https://www.datascienceportfol.io/akemarcpt)
 - Email: akemarcpt@gmail.com
 
-multicultural-workforce-deib-dashboard/
-│
-├── README.md
-├── screenshots/
-│   ├── page1.png
-│   ├── page2.png
-│   └── page3.png
-│
-├── data/
-│   └── P1.xlsx
-│
-├── assets/
-│   └── dashboard-cover.png
-│
-└── docs/
-    └── methodology-notes.md
