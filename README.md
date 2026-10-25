@@ -21,6 +21,8 @@ The dashboard demonstrates how HR data can be transformed into interactive visua
 
 ### 1. Workforce Overview
 
+![Workforce Overview](01%20%E2%80%94%20Workforce%20Overview.png)
+
 Provides an overview of employee records, active headcount, terminated employees, and terminated share.
 
 Key visuals:
@@ -32,6 +34,8 @@ Key visuals:
 - Terminated Share by Department
 
 ### 2. Pay Equity Analysis
+
+![Pay Equity Analysis](02%20%E2%80%94%20Pay%20Equity%20Analysis.png)
 
 Explores median monthly salaries among active employees by job level and nationality group.
 
@@ -46,6 +50,8 @@ The salary gap measure compares each group's median salary with the active-emplo
 These comparisons are descriptive. They do not, by themselves, establish discrimination, causation, or unjustified pay inequity.
 
 ### 3. Inclusion & Belonging
+
+![Inclusion & Belonging](03%20%E2%80%94%20Inclusion%20%26%20Belonging.png)
 
 Explores employee inclusion, manager inclusion, and belonging scores among active employees with valid responses.
 
