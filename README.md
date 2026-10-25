@@ -8,6 +8,17 @@ The dashboard demonstrates how HR data can be transformed into interactive visua
 
 **Important:** The dataset is synthetic and intended for learning and portfolio demonstration. The findings do not describe a real organization.
 
+## Interactive Power BI Dashboard
+
+**[Open the interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiMjFjY2U3NjQtNTc4MC00ZjMyLTg3NmYtMzJjMWI0ZmE0MWFmIiwidCI6IjU4ZTMxMjU3LWY3N2YtNGQ1OC05NzA1LWQwYjZlYTBmOWVlNCIsImMiOjh9)**
+
+Explore the three report pages:
+- Workforce Overview
+- Pay Equity Analysis
+- Inclusion & Belonging
+
+*The report uses synthetic data and is intended for portfolio demonstration.*
+
 ## Business Objectives
 
 - Monitor workforce composition and employment status.
